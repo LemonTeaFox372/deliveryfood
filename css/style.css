@@ -8,7 +8,6 @@ body {
 }
 
 .container {
-    border: 3px solid darkslateblue;
     margin: auto;
     max-width: 1303px;
 }
